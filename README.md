@@ -44,8 +44,6 @@ $ py [nome do aquivo]
 
 # Desenvolvedor
 <p> 👨‍💻 Desenvolvido por: <a href="https://github.com/Djaneramos">Djane Ramos</a> com o auxilio de: <a href="https://github.com/wdwf">Weslley Ferreira 
- ![CatgenGIF](https://user-images.githubusercontent.com/69995835/174503328-49729f31-92f9-4909-aae9-21179a9f033b.gif)
-
-</a></p>
+![InfinityLoopGIF](https://user-images.githubusercontent.com/69995835/174503359-6adbf03f-821b-46b4-88b3-55407b7a67b3.gif)</a></p>
 
 
