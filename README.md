@@ -43,7 +43,7 @@ $ py [nome do aquivo]
 ```
 
 # Desenvolvedor
-<p> 👨‍💻 Desenvolvido por: <a href="https://github.com/Djaneramos">Djane Ramos</a> com o auxilio de: <a href="https://github.com/wdwf">Weslley Ferreira 
-![InfinityLoopGIF](https://user-images.githubusercontent.com/69995835/174503359-6adbf03f-821b-46b4-88b3-55407b7a67b3.gif)</a></p>
+<p> 👨‍💻 Desenvolvido por: <a href="https://github.com/Djaneramos">Djane Ramos</a> com o auxilio de: <a href="https://github.com/wdwf">Weslley Ferreira
+ ![StitchStressedGIF](https://user-images.githubusercontent.com/69995835/174503395-16d7dca2-dac0-4b26-a708-603eb0581907.gif)</a></p>
 
 
